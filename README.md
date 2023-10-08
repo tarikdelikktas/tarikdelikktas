@@ -16,7 +16,9 @@ You can review my Trello board which I'm maintaining and demonstrating all the n
 
 Automation with JS/TS frameworks|Automation with Java frameworks|Other automation tools|API Automation|Mobile Automation|CI/CD Tools / Cloud Platfrom
 ----|----|----|----|----|----
-![](https://img.shields.io/badge/Cypress-CucumberTS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Playwright-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Python-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/Apache-Jmeter-informational?style=flat&color=ff69b4)|![](https://img.shields.io/badge/Appium-WebdriverIO-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Azure-informational?style=flat&color=yellowgreen)|![](https://img.shields.io/badge/WebDriverIO-Mocha-informational?style=flat&color=2bbc8a)|
+![](https://img.shields.io/badge/Cypress-CucumberTS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Playwright-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Python-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/Apache-Jmeter-informational?style=flat&color=ff69b4)|![](https://img.shields.io/badge/Appium-WebdriverIO-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Azure-informational?style=flat&color=yellowgreen)|
+![](https://img.shields.io/badge/Playwright-CucamberJS-informational?style=flat&color=2bbc8a)|
+![](https://img.shields.io/badge/WebDriverIO-Mocha-informational?style=flat&color=2bbc8a)|
 
 
 
