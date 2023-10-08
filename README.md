@@ -14,8 +14,8 @@ You can review my Trello board which I'm maintaining and demonstrating all the n
 
 ## 🔧 Tools & Technologies
 
-Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Scriptless Tools|Mobile Automation|Service Virtualization
-----|----|----|----|----|----|----
+**Automation with JS/TS frameworks|Automation with Java frameworks|Other automation tools|API Automation|Mobile Automation|CI/CD Tools / Cloud Platfrom**
+----|----|----|----|----|----
 ![](https://img.shields.io/badge/Cypress-CucumberJS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Playwright-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Python-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/Apache-Jmeter-informational?style=flat&color=ff69b4)|![](https://img.shields.io/badge/Appium-WebdriverIO-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Folio-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Serenity-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/SoapUI-informational?style=flat&color=yellowgreen)|![](https://img.shields.io/badge/Ranorex-informational?style=flat&color=yellowgreen)|![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&color=blue)|[![](https://img.shields.io/badge/JsonServer-JS-informational?style=flat&color=2bbc8a)]
 ![](https://img.shields.io/badge/Puppeteer-CucumberJS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Jbehave-informational?style=flat&color=blue)|
 |![](https://img.shields.io/badge/TestComplete-informational?style=flat&color=yellowgreen)|
