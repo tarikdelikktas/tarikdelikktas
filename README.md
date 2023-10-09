@@ -1,8 +1,8 @@
 ## Hi There 👋
 
 It's **Tarik Deliktas** and I'm a Senior Test Automation Engineer on Architect - DevOps - Cloud and expanding my skillset to AI platfroms. 
-<br> I live in Silicon Valley at California, U.S.A and love to work on complex problems, challenging products and always open to learn new tech stacks. </br>
-<br> ...and coffee lover ☕ </br>
+<p> I live in Silicon Valley at California, U.S.A and love to work on complex problems, challenging products and always open to learn new tech stacks.
+<p> ...and coffee lover ☕
 
 ## &#x270d; In Here
 
