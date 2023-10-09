@@ -19,7 +19,7 @@ Automation with JS/TS frameworks|Automation with Java frameworks|Other automatio
 ![](https://img.shields.io/badge/Cypress-CucumberTS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Playwright-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Python-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/Jmeter-Java-informational?style=flat&color=ff69b4)|![](https://img.shields.io/badge/Appium-Javascript-informational?style=flat&color=yellow)|![](https://img.shields.io/badge/Cypress-GitHubActions-informational?style=flat&color=yellowgreen)|
 ![](https://img.shields.io/badge/Cypress-Mocha-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Robot-informational?style=flat&color=yellow)|![](https://img.shields.io/badge/RestAssured-Java-informational?style=flat&color=blue)|![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&color=purple)||![](https://img.shields.io/badge/Playwright-GitHubActions-informational?style=flat&color=yellowgreen)|
 ![](https://img.shields.io/badge/Playwright-CucamberJS-informational?style=flat&color=2bbc8a)||![](https://img.shields.io/badge/Playwright-Robot-informational?style=flat&color=yellow)|![](https://img.shields.io/badge/SoapUI-informational?style=flat&color=yellowgreen)||![](https://img.shields.io/badge/Playwright-Azure-informational?style=flat&color=yellowgreen)|
-![](https://img.shields.io/badge/WebDriverIO-Mocha-informational?style=flat&color=2bbc8a)|
+![](https://img.shields.io/badge/WebDriverIO-Mocha-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/RequestModule-Pytest-informational?style=flat&color=yellow)||![](https://img.shields.io/badge/QCWare-CircleCI-informational?style=flat&color=yellowgreen)|
 ![](https://img.shields.io/badge/TestCafe-BDD-informational?style=flat&color=2bbc8a)|
 
 
@@ -34,4 +34,4 @@ Automation with JS/TS frameworks|Automation with Java frameworks|Other automatio
 ![](https://img.shields.io/badge/Protractor-Jasmine-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Java-Applitools-informational?style=flat&color=blue)||[![](https://img.shields.io/badge/Postman-Newman-informational?style=flat&color=yellowgreen)]
 ![](https://img.shields.io/badge/JMeter-Java-informational?style=flat&color=blue)|
 ![](https://img.shields.io/badge/NighwatchJS-BDD-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/CitrusFramework-Java-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/TestCafe-BDD-informational?style=flat&color=2bbc8a)|||[![](https://img.shields.io/badge/RequestModule-Pytest-informational?style=flat&color=yellow)](https://github.com/ghoshasish99/API-Testing-Pytest)
+![](https://img.shields.io/badge/TestCafe-BDD-informational?style=flat&color=2bbc8a)||
